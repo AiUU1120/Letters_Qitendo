@@ -1,0 +1,697 @@
+{
+    "skeleton": {
+        "hash": "kbyrEjigM3dXBjsbpt+SsCllPz8",
+        "spine": "4.1",
+        "x": -445.76,
+        "y": -99.28,
+        "width": 1296.64,
+        "height": 2595.63,
+        "images": "D:/weixin/WeChat Files/wxid_v8i8sxobbiu612/FileStorage/File/2022-09/images/",
+        "audio": "D:/weixin/WeChat Files/wxid_v8i8sxobbiu612/FileStorage/File/2022-09"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "name": "KUA",
+            "parent": "root",
+            "length": 175.46,
+            "rotation": -92.57,
+            "x": -94.81,
+            "y": 1469.63,
+            "scaleX": 1.5423,
+            "scaleY": 1.5423
+        },
+        {
+            "name": "KUA5",
+            "parent": "KUA",
+            "length": 315.53,
+            "rotation": -175.01,
+            "x": -0.2,
+            "y": -1.9
+        },
+        {
+            "name": "YOUS",
+            "parent": "KUA5",
+            "length": 401.87,
+            "rotation": 144.43,
+            "x": 305.58,
+            "y": 140.98,
+            "scaleX": 0.6294,
+            "scaleY": 0.6294
+        },
+        {
+            "name": "bone2",
+            "parent": "YOUS",
+            "length": 343.25,
+            "rotation": -11.9,
+            "x": 405.58,
+            "y": 0.98,
+            "scaleX": 1.0481,
+            "scaleY": 1.0481
+        },
+        {
+            "name": "bone3",
+            "parent": "bone2",
+            "length": 122.09,
+            "rotation": 11.07,
+            "x": 337.27,
+            "y": 1.87
+        },
+        {
+            "name": "YOUT",
+            "parent": "KUA",
+            "length": 428.02,
+            "rotation": -3.57,
+            "x": 71.77,
+            "y": -34.43
+        },
+        {
+            "name": "bone5",
+            "parent": "YOUT",
+            "length": 437.32,
+            "rotation": -1.21,
+            "x": 423.38,
+            "y": 4.32
+        },
+        {
+            "name": "bone6",
+            "parent": "bone5",
+            "length": 114.53,
+            "rotation": 66.01,
+            "x": 438.97,
+            "y": -8.81
+        },
+        {
+            "name": "KUA2",
+            "parent": "KUA",
+            "length": 405.99,
+            "rotation": 7.46,
+            "x": 60.26,
+            "y": 89.08,
+            "scaleX": 1.0693,
+            "scaleY": 1.0693
+        },
+        {
+            "name": "KUA3",
+            "parent": "KUA2",
+            "length": 388.93,
+            "rotation": -6.85,
+            "x": 429.95,
+            "y": -7.66,
+            "scaleX": 0.9352,
+            "scaleY": 0.9352
+        },
+        {
+            "name": "KUA4",
+            "parent": "KUA3",
+            "length": 110.6,
+            "rotation": 74.36,
+            "x": 401.16,
+            "y": 2.14
+        },
+        {
+            "name": "KUA6",
+            "parent": "KUA5",
+            "length": 73.73,
+            "rotation": -0.13,
+            "x": 306.27,
+            "y": 4.76
+        },
+        {
+            "name": "KUA7",
+            "parent": "KUA6",
+            "length": 243.9,
+            "rotation": -0.37,
+            "x": 73.03,
+            "y": 1.01
+        },
+        {
+            "name": "KUA8",
+            "parent": "KUA5",
+            "length": 271.22,
+            "rotation": -136.92,
+            "x": 294.58,
+            "y": -115.49
+        },
+        {
+            "name": "KUA9",
+            "parent": "KUA8",
+            "length": 208.85,
+            "rotation": -0.51,
+            "x": 265.5,
+            "y": -3.92
+        },
+        {
+            "name": "KUA10",
+            "parent": "KUA9",
+            "length": 50.47,
+            "rotation": 2.27,
+            "x": 203.25,
+            "y": -2.38
+        },
+        {
+            "name": "YOUT2",
+            "parent": "root",
+            "x": -303.96,
+            "y": 19.54,
+            "color": "ff3f00ff"
+        },
+        {
+            "name": "ZUOT",
+            "parent": "root",
+            "x": 5.57,
+            "y": -24.45,
+            "color": "ff3f00ff"
+        },
+        {
+            "name": "YOUS2",
+            "parent": "root",
+            "x": -405.95,
+            "y": 1145.03,
+            "color": "ff3f00ff"
+        },
+        {
+            "name": "ZUOS",
+            "parent": "root",
+            "x": 162.9,
+            "y": 1018.35,
+            "color": "ff3f00ff"
+        }
+    ],
+    "slots": [
+        {
+            "name": "bozi",
+            "bone": "KUA6",
+            "attachment": "bozi"
+        },
+        {
+            "name": "tou",
+            "bone": "KUA7",
+            "attachment": "tou"
+        },
+        {
+            "name": "eye",
+            "bone": "KUA7",
+            "attachment": "eye"
+        },
+        {
+            "name": "zuoshou",
+            "bone": "KUA10",
+            "attachment": "zuoshou"
+        },
+        {
+            "name": "zuoshang",
+            "bone": "KUA8",
+            "attachment": "zuoshang"
+        },
+        {
+            "name": "zuoxia",
+            "bone": "KUA9",
+            "attachment": "zuoxia"
+        },
+        {
+            "name": "BODY",
+            "bone": "KUA5",
+            "attachment": "BODY"
+        },
+        {
+            "name": "youdatui",
+            "bone": "KUA2",
+            "attachment": "youdatui"
+        },
+        {
+            "name": "youxizotui",
+            "bone": "KUA3",
+            "attachment": "youxizotui"
+        },
+        {
+            "name": "zuodashou",
+            "bone": "YOUS",
+            "attachment": "zuodashou"
+        },
+        {
+            "name": "zuodatui",
+            "bone": "YOUT",
+            "attachment": "zuodatui"
+        },
+        {
+            "name": "youxie",
+            "bone": "KUA4",
+            "attachment": "youxie"
+        },
+        {
+            "name": "zuoxie",
+            "bone": "bone6",
+            "attachment": "zuoxie"
+        },
+        {
+            "name": "zuoxiaotui",
+            "bone": "bone5",
+            "attachment": "zuoxiaotui"
+        },
+        {
+            "name": "kua",
+            "bone": "KUA",
+            "attachment": "kua"
+        },
+        {
+            "name": "youshou",
+            "bone": "bone3",
+            "attachment": "youshou"
+        },
+        {
+            "name": "zuoxiao",
+            "bone": "bone2",
+            "attachment": "zuoxiao"
+        }
+    ],
+    "ik": [
+        {
+            "name": "YOUS",
+            "order": 2,
+            "bones": [
+                "YOUS",
+                "bone2"
+            ],
+            "target": "YOUS2"
+        },
+        {
+            "name": "YOUT",
+            "bones": [
+                "YOUT",
+                "bone5"
+            ],
+            "target": "YOUT2",
+            "bendPositive": false
+        },
+        {
+            "name": "ZUOS",
+            "order": 3,
+            "bones": [
+                "KUA8",
+                "KUA9"
+            ],
+            "target": "ZUOS"
+        },
+        {
+            "name": "ZUOT",
+            "order": 1,
+            "bones": [
+                "KUA2",
+                "KUA3"
+            ],
+            "target": "ZUOT",
+            "bendPositive": false
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "zuoxie": {
+                    "zuoxie": {
+                        "x": 60.26,
+                        "y": 2.59,
+                        "scaleX": 0.6356,
+                        "scaleY": 0.6356,
+                        "rotation": 32.4,
+                        "width": 258,
+                        "height": 189
+                    }
+                },
+                "zuodashou": {
+                    "zuodashou": {
+                        "x": 212.96,
+                        "scaleX": 1.0481,
+                        "scaleY": 1.0481,
+                        "rotation": 96.73,
+                        "width": 159,
+                        "height": 461
+                    }
+                },
+                "zuoshou": {
+                    "zuoshou": {
+                        "x": 45.45,
+                        "y": -1.93,
+                        "scaleX": 0.656,
+                        "scaleY": 0.656,
+                        "rotation": 81.57,
+                        "width": 94,
+                        "height": 182
+                    }
+                },
+                "zuoshang": {
+                    "zuoshang": {
+                        "x": 132.06,
+                        "y": 0.72,
+                        "scaleX": 0.629,
+                        "scaleY": 0.629,
+                        "rotation": 84.52,
+                        "width": 128,
+                        "height": 483
+                    }
+                },
+                "zuoxia": {
+                    "zuoxia": {
+                        "x": 97.85,
+                        "y": -2.78,
+                        "scaleX": 0.6272,
+                        "scaleY": 0.6272,
+                        "rotation": 84.14,
+                        "width": 83,
+                        "height": 371
+                    }
+                },
+                "youxie": {
+                    "youxie": {
+                        "x": 55.58,
+                        "y": 6.77,
+                        "scaleX": 0.6249,
+                        "scaleY": 0.6249,
+                        "rotation": 18.03,
+                        "width": 273,
+                        "height": 163
+                    }
+                },
+                "zuodatui": {
+                    "zuodatui": {
+                        "x": 199.4,
+                        "y": -10.14,
+                        "scaleX": 0.6597,
+                        "scaleY": 0.6597,
+                        "rotation": 96.11,
+                        "width": 289,
+                        "height": 754
+                    }
+                },
+                "tou": {
+                    "tou": {
+                        "x": 140.28,
+                        "y": -0.93,
+                        "scaleX": 0.6424,
+                        "scaleY": 0.6424,
+                        "rotation": -91.92,
+                        "width": 400,
+                        "height": 456
+                    }
+                },
+                "BODY": {
+                    "BODY": {
+                        "x": 130.14,
+                        "y": 17.65,
+                        "scaleX": 0.6512,
+                        "scaleY": 0.6512,
+                        "rotation": -92.42,
+                        "width": 459,
+                        "height": 752
+                    }
+                },
+                "youxizotui": {
+                    "youxizotui": {
+                        "x": 185.01,
+                        "y": -12.03,
+                        "scaleX": 0.6348,
+                        "scaleY": 0.6348,
+                        "rotation": 92.39,
+                        "width": 139,
+                        "height": 665
+                    }
+                },
+                "youdatui": {
+                    "youdatui": {
+                        "x": 201.76,
+                        "y": -20.83,
+                        "scaleX": 0.6254,
+                        "scaleY": 0.6254,
+                        "rotation": 88.86,
+                        "width": 242,
+                        "height": 764
+                    }
+                },
+                "youshou": {
+                    "youshou": {
+                        "x": 88.94,
+                        "y": 9.99,
+                        "rotation": 91.1,
+                        "width": 103,
+                        "height": 224
+                    }
+                },
+                "eye": {
+                    "eye": {
+                        "x": 115.48,
+                        "y": -34.48,
+                        "scaleX": 0.6439,
+                        "scaleY": 0.6439,
+                        "rotation": -91.92,
+                        "width": 216,
+                        "height": 57
+                    }
+                },
+                "zuoxiao": {
+                    "zuoxiao": {
+                        "x": 158.6,
+                        "y": 6.8,
+                        "rotation": 95.08,
+                        "width": 90,
+                        "height": 381
+                    }
+                },
+                "zuoxiaotui": {
+                    "zuoxiaotui": {
+                        "x": 191.92,
+                        "y": 325.25,
+                        "scaleX": 0.6501,
+                        "scaleY": 0.6501,
+                        "rotation": 92.78,
+                        "width": 1175,
+                        "height": 739
+                    }
+                },
+                "kua": {
+                    "kua": {
+                        "x": 68.49,
+                        "y": -5.09,
+                        "scaleX": 0.6496,
+                        "scaleY": 0.6496,
+                        "rotation": 92.57,
+                        "width": 411,
+                        "height": 346
+                    }
+                },
+                "bozi": {
+                    "bozi": {
+                        "x": 49.29,
+                        "y": 11.26,
+                        "scaleX": 0.6806,
+                        "scaleY": 0.6806,
+                        "rotation": -92.29,
+                        "width": 155,
+                        "height": 263
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "ZL": {
+            "bones": {
+                "KUA": {
+                    "translate": [
+                        {
+                            "y": -20.28
+                        },
+                        {
+                            "time": 0.2667,
+                            "x": -27.07,
+                            "y": 38.38
+                        },
+                        {
+                            "time": 0.5333,
+                            "y": -20.28
+                        },
+                        {
+                            "time": 0.8,
+                            "x": -27.07,
+                            "y": 38.38
+                        },
+                        {
+                            "time": 1.0667,
+                            "y": -20.28
+                        }
+                    ]
+                },
+                "YOUT2": {
+                    "translate": [
+                        {
+                            "x": -225.38,
+                            "y": 55.36
+                        },
+                        {
+                            "time": 0.2667,
+                            "x": 51.03,
+                            "y": 57.24
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 507.91,
+                            "y": 59.13
+                        },
+                        {
+                            "time": 0.8,
+                            "x": 51.03,
+                            "y": 57.24
+                        },
+                        {
+                            "time": 1.0667,
+                            "x": -225.38,
+                            "y": 55.36
+                        }
+                    ]
+                },
+                "ZUOT": {
+                    "translate": [
+                        {
+                            "x": 162.02,
+                            "y": 79.13
+                        },
+                        {
+                            "time": 0.2667,
+                            "x": -100.64,
+                            "y": 133.43
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": -414.4,
+                            "y": 176.39
+                        },
+                        {
+                            "time": 0.8,
+                            "x": -100.64,
+                            "y": 133.43
+                        },
+                        {
+                            "time": 1.0667,
+                            "x": 162.02,
+                            "y": 79.13
+                        }
+                    ]
+                },
+                "KUA4": {
+                    "rotate": [
+                        {
+                            "angle": -1.59
+                        },
+                        {
+                            "time": 0.1333,
+                            "angle": 9.51
+                        },
+                        {
+                            "time": 0.2667,
+                            "angle": 9.08
+                        },
+                        {
+                            "time": 0.5333,
+                            "angle": 19.76
+                        },
+                        {
+                            "time": 0.8,
+                            "angle": 9.08
+                        },
+                        {
+                            "time": 0.9333,
+                            "angle": 9.51
+                        },
+                        {
+                            "time": 1.0667,
+                            "angle": -1.59
+                        }
+                    ]
+                },
+                "bone6": {
+                    "rotate": [
+                        {
+                            "angle": 7.95
+                        },
+                        {
+                            "time": 0.5333,
+                            "angle": 10.28
+                        }
+                    ]
+                },
+                "KUA5": {
+                    "rotate": [
+                        {
+                            "angle": -2.43
+                        },
+                        {
+                            "time": 0.2667,
+                            "angle": -2.45
+                        },
+                        {
+                            "time": 0.5333,
+                            "angle": -3.92
+                        },
+                        {
+                            "time": 0.8,
+                            "angle": -2.45
+                        },
+                        {
+                            "time": 1.0667,
+                            "angle": -2.43
+                        }
+                    ]
+                },
+                "YOUS2": {
+                    "translate": [
+                        {
+                            "x": 283.53,
+                            "y": 60.07
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": -162.24,
+                            "y": 55.77
+                        },
+                        {
+                            "time": 1.0667,
+                            "x": 283.53,
+                            "y": 60.07
+                        }
+                    ]
+                },
+                "ZUOS": {
+                    "translate": [
+                        {
+                            "x": -150.78,
+                            "y": 115.07
+                        },
+                        {
+                            "time": 0.2667,
+                            "x": -41.66,
+                            "y": 193.44
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 138.38,
+                            "y": 182.53
+                        },
+                        {
+                            "time": 0.8,
+                            "x": -41.66,
+                            "y": 193.44
+                        },
+                        {
+                            "time": 1.0667,
+                            "x": -150.78,
+                            "y": 115.07
+                        }
+                    ]
+                }
+            }
+        },
+        "animation": {}
+    }
+}

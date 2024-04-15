@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Script/Dialogue/AnimationControler.cs.meta
+guid: cc79e2e600c89a245a60bf63342be2d7
+========
+guid: 1e6df3ee037032044b8ade26e560fc53
+>>>>>>>> a5ec2cfe0893172c4ec53bd460797be4c95386db:Assets/Script/Dialogue/DialogueController.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fafa3d111c7c0647ae245a5390d705d, type: 3}
+  m_Name: 11-1
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 0
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u4F60\u4EEC\u6765\u5566\uFF0C\u5148\u8FDB\u6765\u5427\uFF01"
+    isNpc: 0
+  - ID: 1
+    image: {fileID: -627098035, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u68EE"
+    text: "*\u60CA\u53F9*\u5C0F\u67D2\u4F60\u600E\u4E48\u53D8\u5F97\u8FD9\u4E48\u7626\u4E86\uFF1F\uFF01"
+    isNpc: 1
+  - ID: 2
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u4EE5\u524D\u592A\u80D6\u4E86\uFF0C\u73B0\u5728\u7626\u7740\u633A\u597D\u54C8\u54C8\u54C8\u54C8"
+    isNpc: 0
+  - ID: 3
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u8FD8\u80FD\u8E66\u8DF6\uFF0C\u6CA1\u5565\u95EE\u9898"
+    isNpc: 0
+  - ID: 4
+    image: {fileID: 1251962701, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u5B89"
+    text: "\u5C0F\u67D2\u4F60\u73B0\u5728\u611F\u89C9\u600E\u4E48\u6837\uFF1F\u8FD9\u6B21\u662F\u4E0D\u662F\u53C8\u8981\u6362\u9AA8\u9AD3\uFF1F"
+    isNpc: 1
+  - ID: 5
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u6211\u4E5F\u4E0D\u77E5\u9053\u4E3A\u5565\u5C31\u590D\u53D1\u4E86\uFF0C\u53EF\u80FD\u662F\u8FD0\u6C14\u5DEE\u5457\uFF0C\u8FD9\u5C31\u662F\u5929\u5992\u82F1\u624D\u5427\u54C8\u54C8\u54C8\u54C8"
+    isNpc: 0
+  - ID: 6
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u533B\u751F\u8BF4\u7528\u65B0\u7684\u6CBB\u7597\u65B9\u6CD5\uFF0C\u6211\u4E5F\u4E0D\u592A\u61C2\uFF0C\u76EE\u524D\u662F\u5728\u5403\u836F"
+    isNpc: 0
+  - ID: 7
+    image: {fileID: 1251962701, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u5B89"
+    text: "\u90A3\u4F60\u8FD9\u9635\u5B50\u662F\u5728\u5BB6\u4F11\u517B\u5417\uFF1F"
+    isNpc: 1
+  - ID: 8
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u5BF9\u554A\uFF0C\u6700\u8FD1\u5C31\u5728\u5BB6\u91CC\u5446\u7740\uFF0C\u90FD\u5FEB\u53D1\u9709\u4E86\uFF0C\u6BCF\u5929\u6253\u6253\u6E38\u620F\uFF0C\u4E5F\u6CA1\u4EC0\u4E48\u53EF\u4EE5\u505A\u7684\uFF0C\u597D\u65E0\u804A......"
+    isNpc: 0
+  - ID: 9
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u6211\u5E73\u5E38\u6253\u7684\u65F6\u5019\u4F60\u4EEC\u90FD\u6CA1\u4E0A\u7EBF\uFF0C\u54B1\u4EEC\u7684SWG\u6218\u961F\u5565\u65F6\u5019\u518D\u5408\u4F53\u554A"
+    isNpc: 1
+  - ID: 10
+    image: {fileID: 1898650994, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u81FB"
+    text: "\u6211\u7ECF\u5E38\u6709\u7A7A\u5C31\u4E0A\u7EBF\u73A9\uFF0C\u6CA1\u770B\u89C1\u4F60\u5728\u73A9\u554A\uFF0C\u53EF\u80FD\u662F\u548C\u4F60\u9519\u8FC7\u4E86\u3002"
+    isNpc: 0
+  - ID: 11
+    image: {fileID: 1321038955, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u8C6A"
+    text: "\u6211\u4E00\u822C\u5468\u672B\u4E0A\u7EBF\u73A9\u3002"
+    isNpc: 1
+  - ID: 12
+    image: {fileID: -627098035, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u68EE"
+    text: "\u6211\u6700\u8FD1\u5B66\u4E1A\u6BD4\u8F83\u5FD9\uFF0C\u90FD\u6CA1\u65F6\u95F4\u4E0A\u53F7\u6253\u6E38\u620F\u4E86\u3002"
+    isNpc: 0
+  - ID: 13
+    image: {fileID: -1183975626, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u5065"
+    text: "\u90A3\u4F60\u5F97\u80CC\u5927\u9505\uFF0C\u4EE5\u524D\u54B1\u521D\u4E2D\u7684\u65F6\u5019\u53EF\u662F\u4F60\u7ECF\u5E38\u5E26\u6211\u4EEC\u53BB\u73A9\u7684\u554A\uFF01"
+    isNpc: 1
+  - ID: 14
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u771F\u597D\u554A\uFF0C\u4F60\u4EEC\u90FD\u4E0A\u5927\u5B66\u4E86\uFF0C\u6211\u8FD8\u95F7\u5728\u5BB6\u91CC\uFF0C\u597D\u60F3\u51FA\u53BB\u8D70\u8D70\u554A"
+    isNpc: 0
+  - ID: 15
+    image: {fileID: 1898650994, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u81FB"
+    text: "\u90A3\u8FD8\u4E0D\u7B80\u5355\uFF0C\u7B49\u4F60\u8EAB\u4F53\u6761\u4EF6\u5141\u8BB8\u4E86\uFF0C\u6211\u4EEC\u4E00\u8D77\u53BB\u65C5\u6E38\u5457\uFF01"
+    isNpc: 1
+  - ID: 16
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u597D\u554A\uFF01\u6216\u8005\u7B49\u4F60\u4EEC\u6BD5\u4E1A\u7684\u65F6\u5019\u6211\u8DDF\u4F60\u4EEC\u4E00\u8D77\u53BB\u6BD5\u4E1A\u65C5\u884C\u4E5F\u53EF\u4EE5\u554A"
+    isNpc: 0
+  - ID: 17
+    image: {fileID: 1898650994, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u81FB"
+    text: "\u884C\u554A\uFF01\u90A3\u4F60\u5F97\u5FEB\u70B9\u597D\u8D77\u6765\uFF0C\u5230\u65F6\u5019\u6211\u4EEC\u5C31\u53EF\u4EE5\u4E00\u8D77\u51FA\u53BB\u73A9\u4E86"
+    isNpc: 1
+  - ID: 18
+    image: {fileID: -1183975626, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u5065"
+    text: "\u90A3\u6211\u4EEC\u53BB\u54EA\u91CC\u65C5\u6E38\uFF1F\u53EF\u4EE5\u5148\u5B9A\u4E2A\u76EE\u6807\uFF01"
+    isNpc: 0
+  - ID: 19
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u8981\u4E0D\u6211\u4EEC\u53BB\u897F\u85CF\u5427\uFF01\u6211\u4ECE\u5C0F\u5C31\u60F3\u53BB\u897F\u85CF\uFF0C\u53EF\u662F\u4E00\u76F4\u6CA1\u6709\u673A\u4F1A"
+    isNpc: 1
+  - ID: 20
+    image: {fileID: 1321038955, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u8C6A"
+    text: "\u6211\u89C9\u5F97\u53EF\u4EE5\u3002"
+    isNpc: 0
+  - ID: 21
+    image: {fileID: 1898650994, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u81FB"
+    text: "\u53EF\u4EE5\u554A\uFF01\u6211\u957F\u8FD9\u4E48\u5927\u8FD8\u6CA1\u51FA\u8FC7\u6211\u4EEC\u7701\u3002"
+    isNpc: 1
+  - ID: 22
+    image: {fileID: -1183975626, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u5065"
+    text: "\u6CA1\u95EE\u9898\uFF01"
+    isNpc: 0
+  - ID: 23
+    image: {fileID: 1251962701, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u5B89"
+    text: "\u6211\u4E5F\u89C9\u5F97\u6CA1\u95EE\u9898\uFF01\u90A3\u5C31\u8FD9\u4E48\u8BF4\u5B9A\u54AF\uFF1F\u8BF4\u597D\u4E86\u4EE5\u540E\u8981\u4E00\u8D77\u53BB\u65C5\u6E38\u7684\uFF0C\u8C01\u90FD\u4E0D\u53EF\u4EE5\u98DF\u8A00\uFF01"
+    isNpc: 1
+  - ID: 24
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u90A3\u5C31\u8FD9\u4E48\u5B9A\u4E86\uFF01\u7B49\u6211\u75C5\u597D\u4E86\uFF0C\u5C31\u8DDF\u4F60\u4EEC\u4E00\u8D77\u6BD5\u4E1A\u65C5\u884C\u53BB\u897F\u85CF\u73A9\uFF0C\u4E0D\u51C6\u98DF\u8A00\uFF01"
+    isNpc: 0
+  - ID: 25
+    image: {fileID: -1183975626, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u5065"
+    text: "\u54C8\u54C8\u54C8\uFF0C\u90A3\u80AF\u5B9A\u6CA1\u95EE\u9898\u554A\uFF0C\u4E0D\u8BBA\u600E\u6837\u90FD\u4F1A\u53BB\u7684\uFF01"
+    isNpc: 1
+  - ID: 26
+    image: {fileID: 1321038955, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u8C6A"
+    text: "\u55EF\uFF0C\u6211\u4EEC\u4F1A\u4E00\u8D77\u53BB\u65C5\u6E38\u7684\u3002"
+    isNpc: 0
+  - ID: 27
+    image: {fileID: -1183975626, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u5065"
+    text: "\u5BF9\u4E86\uFF0C\u6211\u4ECA\u5929\u8FD8\u5E26\u4E86\u86CB\u7CD5\u8FC7\u6765\uFF0C\u8981\u7ED9\u4F60\u5E86\u795D\u751F\u65E5"
+    isNpc: 1
+  - ID: 28
+    image: {fileID: -339465390, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u4F60\u4EEC\u4EBA\u6765\u4E86\u5C31\u884C\u4E86\uFF0C\u8FD8\u641E\u8FD9\u4E9B......"
+    isNpc: 0
+  - ID: 29
+    image: {fileID: 1898650994, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u963F\u81FB"
+    text: "\u6765\u6765\u6765\uFF0C\u6211\u5148\u63D2\u4E0A\u8721\u70DB"
+    isNpc: 1

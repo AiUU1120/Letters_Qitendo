@@ -1,0 +1,125 @@
+
+QI.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 120
+  size: 459, 752
+  orig: 459, 752
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: 180
+  xy: 1879, 146
+  size: 155, 263
+  orig: 155, 263
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 444, 191
+  size: 216, 57
+  orig: 216, 57
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 1384, 460
+  size: 411, 346
+  orig: 411, 346
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 463, 415
+  size: 400, 456
+  orig: 400, 456
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 1142, 107
+  size: 241, 764
+  orig: 242, 764
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 714, 189
+  size: 103, 224
+  orig: 103, 224
+  offset: 0, 0
+  index: -1
+youxie
+  rotate: false
+  xy: 439, 250
+  size: 273, 163
+  orig: 273, 163
+  offset: 0, 0
+  index: -1
+youxizotui
+  rotate: true
+  xy: 281, 37
+  size: 137, 665
+  orig: 139, 665
+  offset: 2, 0
+  index: -1
+zuodashou
+  rotate: false
+  xy: 1868, 410
+  size: 159, 461
+  orig: 159, 461
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 865, 117
+  size: 288, 754
+  orig: 289, 754
+  offset: 1, 0
+  index: -1
+zuoshang
+  rotate: true
+  xy: 1328, 3
+  size: 128, 483
+  orig: 128, 483
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1065, 689
+  size: 94, 182
+  orig: 94, 182
+  offset: 0, 0
+  index: -1
+zuoxia
+  rotate: true
+  xy: 948, 22
+  size: 83, 371
+  orig: 83, 371
+  offset: 0, 0
+  index: -1
+zuoxiao
+  rotate: true
+  xy: 1363, 142
+  size: 90, 381
+  orig: 90, 381
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 1732, 133
+  size: 149, 739
+  orig: 1175, 739
+  offset: 2, 0
+  index: -1
+zuoxie
+  rotate: false
+  xy: 1384, 269
+  size: 258, 189
+  orig: 258, 189
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fafa3d111c7c0647ae245a5390d705d, type: 3}
+  m_Name: 4-4
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 0
+    image: {fileID: -1765937329, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: 
+    text: "\u4E00\u4E2A\u6708\u540E\u3002"
+    isNpc: 0
+  - ID: 1
+    image: {fileID: -1765937329, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5F20\u8001\u5E08"
+    text: "......\u8FD9\u91CC\u80FD\u542C\u61C2\u5417\uFF1F"
+    isNpc: 0
+  - ID: 2
+    image: {fileID: -459565839, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u55EF\uFF0C\u53EF\u4EE5\u7684\uFF0C\u8FD9\u692D\u5706\u65B9\u7A0B\u4E5F\u4E0D\u662F\u5F88\u96BE\uFF0C\u4E4B\u540E\u6211\u518D\u505A\u4E9B\u9898\u5DE9\u56FA\u4E00\u4E0B"
+    isNpc: 0
+  - ID: 3
+    image: {fileID: -1765937329, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5F20\u8001\u5E08"
+    text: "\u597D\uFF0C\u4E0D\u8FC7\uFF0C\u8BB0\u5F97\u6CE8\u610F\u8EAB\u4F53\uFF0C\u522B\u592A\u7D2F\u7740\u4E86"
+    isNpc: 0
+  - ID: 4
+    image: {fileID: -459565839, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u77E5\u9053\u5566\uFF0C\u77E5\u9053\u5566\uFF0C\u5F20\u8001\u5E08\u4F60\u600E\u4E48\u53D8\u5F97\u8DDF\u6211\u5988\u4E00\u6837\u4E86......"
+    isNpc: 0
+  - ID: 5
+    image: {fileID: -1765937329, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5F20\u8001\u5E08"
+    text: "\u4F60\u80FD\u4F11\u606F\u597D\u5C31\u884C\uFF0C\u90A3\u5C31\u4E0B\u8BFE\u5427\uFF0C\u6211\u5173\u6389\u89C6\u9891\u94FE\u63A5\u54AF\uFF01"
+    isNpc: 0
+  - ID: 6
+    image: {fileID: -459565839, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u55EF\uFF0C\u5F20\u8001\u5E08\u518D\u89C1\uFF01"
+    isNpc: 0
+  - ID: 7
+    image: {fileID: -1765937329, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5F20\u8001\u5E08"
+    text: "\u660E\u5929\u89C1\uFF01"
+    isNpc: 0
+  - ID: 8
+    image: {fileID: -459565839, guid: abf1da396a977f74a90e93050c1e7562, type: 3}
+    speakerName: "\u5C0F\u67D2"
+    text: "\u8D81\u73B0\u5728\u521A\u4E0A\u5B8C\u8BFE\uFF0C\u5148\u505A\u4E24\u9053\u9898\u5DE9\u56FA\u4E00\u4E0B......"
+    isNpc: 0

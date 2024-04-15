@@ -1,0 +1,118 @@
+
+未命名作品.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 1532, 296
+  size: 186, 153
+  orig: 186, 153
+  offset: 0, 0
+  index: -1
+kua
+  rotate: 270
+  xy: 1436, 432
+  size: 512, 269
+  orig: 512, 269
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 19
+  size: 531, 925
+  orig: 531, 925
+  offset: 0, 0
+  index: -1
+tou
+  rotate: 180
+  xy: 813, 479
+  size: 414, 466
+  orig: 414, 507
+  offset: 0, 41
+  index: -1
+youda
+  rotate: false
+  xy: 1190, 291
+  size: 268, 653
+  orig: 268, 653
+  offset: 0, 0
+  index: -1
+youshang
+  rotate: true
+  xy: 852, 5
+  size: 151, 522
+  orig: 488, 590
+  offset: 1, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1937, 159
+  size: 108, 209
+  orig: 108, 209
+  offset: 0, 0
+  index: -1
+youxia
+  rotate: false
+  xy: 1951, 556
+  size: 92, 389
+  orig: 157, 815
+  offset: 65, 0
+  index: -1
+youxiao
+  rotate: 180
+  xy: 1694, 176
+  size: 158, 768
+  orig: 158, 768
+  offset: 0, 0
+  index: -1
+youxid
+  rotate: false
+  xy: 929, 349
+  size: 259, 170
+  orig: 432, 237
+  offset: 0, 67
+  index: -1
+zuoda
+  rotate: false
+  xy: 513, 259
+  size: 347, 685
+  orig: 347, 685
+  offset: 0, 0
+  index: -1
+zuoshang
+  rotate: true
+  xy: 1375, 3
+  size: 205, 565
+  orig: 206, 565
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1862, 330
+  size: 123, 254
+  orig: 1749, 268
+  offset: 0, 0
+  index: -1
+zuoxia
+  rotate: 180
+  xy: 1845, 583
+  size: 108, 361
+  orig: 108, 361
+  offset: 0, 0
+  index: -1
+zuoxiao
+  rotate: true
+  xy: 765, 124
+  size: 178, 730
+  orig: 178, 730
+  offset: 0, 0
+  index: -1
+zuoxie
+  rotate: 180
+  xy: 487, 19
+  size: 281, 208
+  orig: 281, 208
+  offset: 0, 0
+  index: -1
